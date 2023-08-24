@@ -13,7 +13,7 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 <ol>
     <li><strong>Module 7 Project:</strong> <a href="https://nicolagg.github.io/Project7-Housing-Price-Prediction/">Building a Model to Predict Housing Prices</a></li>
     <li><strong>Module 8 Project:</strong>  <a href="https://nicolagg.github.io/Project8_ETL-on-Monthly-Retail-Trade-Survey-data/">ETL, Analysis, and Visualization</a></li>
-  <li><strong>Module 12 Final Assignment:</strong> Using Various Databases for Containerization</li>
+  <li><strong>Module 12 Final Assignment:</strong> <a href="https://nicolagg.github.io/Module12-Databases-Containerization/">Using Various Databases for Containerization</a></li>
     <li><strong>Module 13 Final Assignment:</strong> Applying CDC to Databases on Different Platforms</li>
     <li><strong>Module 15:</strong> Using Advanced Python Programming to Create Web Applications
         <ul style="margin-top:0; margin-bottom:0;">
