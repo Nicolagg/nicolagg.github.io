@@ -13,16 +13,10 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 <ol>
     <li><strong>Module 7 Project:</strong> <a href="https://nicolagg.github.io/Project7-Housing-Price-Prediction/">Building a Model to Predict Housing Prices</a></li>
     <li><strong>Module 8 Project:</strong>  <a href="https://nicolagg.github.io/Project8_ETL-on-Monthly-Retail-Trade-Survey-data/">ETL, Analysis, and Visualization</a></li>
-  <li><strong>Module 12 Final Assignment:</strong> <a href="https://nicolagg.github.io/Module12-Databases-Containerization/">Using Various Databases for Containerization</a></li>
+    <li><strong>Module 12 Final Assignment:</strong> <a href="https://nicolagg.github.io/Module12-Databases-Containerization/">Using Various Databases for Containerization</a></li>
     <li><strong>Module 13 Final Assignment:</strong> Applying CDC to Databases on Different Platforms</li>
-    <li><strong>Module 15:</strong> Using Advanced Python Programming to Create Web Applications
-        <ul style="margin-top:0; margin-bottom:0;">
-            <li><strong>Project 15.1:</strong> Creating a Books Web Application</li>
-            <li><strong>Project 15.2:</strong> Creating a Student Grades Database</li>
-            <li><strong>Project 15.3:</strong> Redundant Dictionaries in Python</li>
-        </ul>
-    </li>
-    <li><strong>Module 16 Project:</strong> Build a Transit Data Application</li>
+    <li><strong>Module 15 Final Project:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/test">Creating a Books Web Application</a></li>
+    <li><strong>Module 16 Project:</strong>Real-Time Bus Tracking Web Application with Data Analysis</li>
     <li><strong>Module 17 Final Assignment:</strong> Performing ETL Using NiFi</li>
     <li><strong>Module 18 Final Assignment 18.1:</strong> Writing a Java Program to Access the Hadoop Database</li>
     <li><strong>Module 19 Final Assignment 19.1:</strong> Processing Big Data with Spark and Airflow</li>
