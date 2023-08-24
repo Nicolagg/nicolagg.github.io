@@ -93,25 +93,18 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 
 ### 1. [Project 1 Name]
 
-- **Description**: [Short description of the project. What does it do? Why did you build it?]
-- **Tech Stack**: [Languages, frameworks, and tools used]
-- **Repository**: [Link to GitHub repository]
 
 ### 2. [Project 2 Name]
 
-- **Description**: [Short description of the project]
-- **Tech Stack**: [Languages, frameworks, and tools used]
-- **Repository**: [Link to GitHub repository]
 
-[Continue listing other projects in the same format]
 
 ## 📫 Contact Me
 
 Feel free to reach out to me for collaboration, questions, or just a chat!
 
-- **Email**: [youremail@example.com]
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Twitter**: [Your Twitter Handle]
+
+- **LinkedIn**: [Nicolas Lagger](https://www.linkedin.com/in/nicolas-lagger-1b2a9526a/)
+
 
 ---
 
