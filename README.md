@@ -9,14 +9,14 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 - **Certification**: [Certificate](https://certificates.emeritus.org/1e082e18-9679-4e2c-ad05-a131eb8cc56b)
 
 ### Course Highlights:
-
+>Real-Time Bus Tracking Web Application with Data Analysis
 <ol>
     <li><strong>Module 7 Project:</strong> <a href="https://nicolagg.github.io/Project7-Housing-Price-Prediction/">Building a Model to Predict Housing Prices</a></li>
     <li><strong>Module 8 Project:</strong>  <a href="https://nicolagg.github.io/Project8_ETL-on-Monthly-Retail-Trade-Survey-data/">ETL, Analysis, and Visualization</a></li>
     <li><strong>Module 12 Final Assignment:</strong> <a href="https://nicolagg.github.io/Module12-Databases-Containerization/">Using Various Databases for Containerization</a></li>
     <li><strong>Module 13 Final Assignment:</strong> Applying CDC to Databases on Different Platforms</li>
-    <li><strong>Module 15 Final Project:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/test">Creating a Books Web Application</a></li>
-    <li><strong>Module 16 Project:</strong>Real-Time Bus Tracking Web Application with Data Analysis</li>
+    <li><strong>Module 15 Final Project:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Project15%20Creating%20a%20Books%20Web%20Application">Creating a Books Web Application</a></li>
+    <li><strong>Module 16 Project:</strong><a href="https://nicolagg.github.io/Data_Engineering_Certificate/Real-Time_Bus_Tracking_Web_Application">Real-Time Bus Tracking Web Application with Data Analysis</a></li>
     <li><strong>Module 17 Final Assignment:</strong> Performing ETL Using NiFi</li>
     <li><strong>Module 18 Final Assignment 18.1:</strong> Writing a Java Program to Access the Hadoop Database</li>
     <li><strong>Module 19 Final Assignment 19.1:</strong> Processing Big Data with Spark and Airflow</li>
