@@ -17,7 +17,7 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
     <li><strong>Module 13 Final Assignment:</strong> Applying CDC to Databases on Different Platforms</li>
     <li><strong>Module 15 Final Project:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Project15%20Creating%20a%20Books%20Web%20Application"> Creating a Books Web Application</a></li>
     <li><strong>Module 16 Project:</strong><a href="https://nicolagg.github.io/Data_Engineering_Certificate/Real-Time_Bus_Tracking_Web_Application"> Real-Time Bus Tracking Web Application with Data Analysis</a></li>
-    <li><strong>Module 17 Final Assignment:</strong> Performing ETL Using NiFi</li>
+    <li><strong>Module 17 Final Assignment:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Module17_Performing_ETL_Using_NiFi"> Performing ETL Using NiFi</a></li>
     <li><strong>Module 18 Final Assignment 18.1:</strong> Writing a Java Program to Access the Hadoop Database</li>
     <li><strong>Module 19 Final Assignment 19.1:</strong> Processing Big Data with Spark and Airflow</li>
     <li>
