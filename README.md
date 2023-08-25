@@ -9,24 +9,22 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 - **Certification**: [Certificate](https://certificates.emeritus.org/1e082e18-9679-4e2c-ad05-a131eb8cc56b)
 
 ### Course Highlights: 
-Module19_Processing_Big_Data
 
-Processing Big Data with Spark and Airflow
 
 
 <ol>
-    <li><strong>Module 7 Project:</strong> <a href="https://nicolagg.github.io/Project7-Housing-Price-Prediction/">Building a Model to Predict Housing Prices</a></li>
-    <li><strong>Module 8 Project:</strong>  <a href="https://nicolagg.github.io/Project8_ETL-on-Monthly-Retail-Trade-Survey-data/">ETL, Analysis, and Visualization</a></li>
-    <li><strong>Module 12 Final Assignment:</strong> <a href="https://nicolagg.github.io/Module12-Databases-Containerization/"> Using Various Databases for Containerization</a></li>
+    <li><strong>Module 7 Project:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Project_7_Housing_Price_Prediction/">Building a Model to Predict Housing Prices</a></li>
+    <li><strong>Module 8 Project:</strong>  <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Project_8_ETL_on_Monthly_Retail_Trade_Survey_data/">ETL, Analysis, and Visualization</a></li>
+    <li><strong>Module 12 Final Assignment:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Module_12_Databases_Containerization/"> Using Various Databases for Containerization</a></li>
     <li><strong>Module 13 Final Assignment:</strong> Applying CDC to Databases on Different Platforms</li>
-    <li><strong>Module 15 Final Project:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Project15%20Creating%20a%20Books%20Web%20Application"> Creating a Books Web Application</a></li>
-    <li><strong>Module 16 Project:</strong><a href="https://nicolagg.github.io/Data_Engineering_Certificate/Real-Time_Bus_Tracking_Web_Application"> Real-Time Bus Tracking Web Application with Data Analysis</a></li>
-    <li><strong>Module 17 Final Assignment:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Module17_Performing_ETL_Using_NiFi"> Performing ETL Using NiFi</a></li>
+    <li><strong>Module 15 Final Project:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Project_15 Creating a Books Web Application"> Creating a Books Web Application</a></li>
+    <li><strong>Module 16 Project:</strong><a href="https://nicolagg.github.io/Data_Engineering_Certificate/Modul_16_Real-Time_Bus_Tracking_Web_Application"> Real-Time Bus Tracking Web Application with Data Analysis</a></li>
+    <li><strong>Module 17 Final Assignment:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Module_17_Performing_ETL_Using_NiFi/"> Performing ETL Using NiFi</a></li>
     <li><strong>Module 18 Final Assignment 18.1:</strong> Writing a Java Program to Access the Hadoop Database</li>
-    <li><strong>Module 19 Final Assignment 19.1:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Module19_Processing_Big_Data">Processing Big Data with Spark and Airflow
+    <li><strong>Module 19 Final Assignment 19.1:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Module_19_Processing_Big_Data/">Processing Big Data with Spark and Airflow
 </a></li>
-    <li>
-        <strong>Module 20:</strong> Introduction to Machine Learning and Advanced Probability
+ <!---     <li>
+      <strong>Module 20:</strong> Introduction to Machine Learning and Advanced Probability
         <ul style="margin-top:0; margin-bottom:0;">
             <li><strong>Activity 20.1:</strong> Optimizing Gradient Descent Using Learning Rates</li>
             <li><strong>Activity 20.2:</strong> Using Python for Spam Detection</li>
@@ -40,8 +38,8 @@ Processing Big Data with Spark and Airflow
             <li><strong>Final Assignment 22.1:</strong> Part 1: Parallel Computing with Pandas, NumPy, and DASK</li>
             <li><strong>Final Assignment 22.2:</strong> Part 2: Streaming Data Using Web Sockets</li>
         </ul>
-    </li>
-    <li><strong>Module 23 Project:</strong><a href="https://nicolagg.github.io/Data_Engineering_Certificate/Projet23_Creating_a_Sensemaking_Data_Pipeline">  Creating a Sensemaking Data Pipeline</a></li>
+    </li> --->
+    <li><strong>Module 23 Project:</strong><a href="https://nicolagg.github.io/Data_Engineering_Certificate/Projet23_Scraping_to_Data Visualization_A_Dockerized_Airflow_Data_Pipeline">  Scraping to Data Visualization: A Dockerized Airflow Data Pipeline</a></li>
     <li>
         <strong>Module 24</strong>
         <ul style="margin-top:0; margin-bottom:0;">
@@ -87,14 +85,13 @@ Processing Big Data with Spark and Airflow
 - Parallel computing with Pandas, NumPy, and DASK
 - Web Sockets for streaming data
 
-
+<!--- This is an HTML comment in Markdown
 ## 🛠 Personal Projects
 
 ### 1. [Project 1 Name]
 
 
 ### 2. [Project 2 Name]
-
 
 
 ## 📫 Contact Me
