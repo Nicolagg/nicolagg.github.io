@@ -41,7 +41,7 @@ Processing Big Data with Spark and Airflow
             <li><strong>Final Assignment 22.2:</strong> Part 2: Streaming Data Using Web Sockets</li>
         </ul>
     </li>
-    <li><strong>Module 23 Project:</strong> Creating a Sensemaking Data Pipeline</li>
+    <li><strong>Module 23 Project:</strong><a href="https://nicolagg.github.io/Data_Engineering_Certificate/Projet23_Creating_a_Sensemaking_Data_Pipeline">  Creating a Sensemaking Data Pipeline</a></li>
     <li>
         <strong>Module 24</strong>
         <ul style="margin-top:0; margin-bottom:0;">
