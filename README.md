@@ -8,7 +8,7 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 - **Duration**: 01.12.2022 - 05.07.2023
 - **Certification**: [Certificate](https://certificates.emeritus.org/1e082e18-9679-4e2c-ad05-a131eb8cc56b)
 
-### Course Highlights: 
+### 🎓🌟 Course Highlights: 
 
 
 
@@ -92,7 +92,7 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 
 
 ### 2. [Project 2 Name]
-
+--->
 
 ## 📫 Contact Me
 
