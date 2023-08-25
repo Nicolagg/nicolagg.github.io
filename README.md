@@ -8,7 +8,11 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 - **Duration**: 01.12.2022 - 05.07.2023
 - **Certification**: [Certificate](https://certificates.emeritus.org/1e082e18-9679-4e2c-ad05-a131eb8cc56b)
 
-### Course Highlights:
+### Course Highlights: 
+Module19_Processing_Big_Data
+
+Processing Big Data with Spark and Airflow
+
 
 <ol>
     <li><strong>Module 7 Project:</strong> <a href="https://nicolagg.github.io/Project7-Housing-Price-Prediction/">Building a Model to Predict Housing Prices</a></li>
@@ -19,7 +23,8 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
     <li><strong>Module 16 Project:</strong><a href="https://nicolagg.github.io/Data_Engineering_Certificate/Real-Time_Bus_Tracking_Web_Application"> Real-Time Bus Tracking Web Application with Data Analysis</a></li>
     <li><strong>Module 17 Final Assignment:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Module17_Performing_ETL_Using_NiFi"> Performing ETL Using NiFi</a></li>
     <li><strong>Module 18 Final Assignment 18.1:</strong> Writing a Java Program to Access the Hadoop Database</li>
-    <li><strong>Module 19 Final Assignment 19.1:</strong> Processing Big Data with Spark and Airflow</li>
+    <li><strong>Module 19 Final Assignment 19.1:</strong> <a href="https://nicolagg.github.io/Data_Engineering_Certificate/Module19_Processing_Big_Data">Processing Big Data with Spark and Airflow
+</a></li>
     <li>
         <strong>Module 20:</strong> Introduction to Machine Learning and Advanced Probability
         <ul style="margin-top:0; margin-bottom:0;">
