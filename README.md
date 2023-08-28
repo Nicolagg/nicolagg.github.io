@@ -60,7 +60,7 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 - Data pipeline construction
 
 #### Databases & Storage
-- **SQL: Complex querying and database design**
+- **SQL: Querying and database design**
 - Hadoop ecosystem
 - Database design and management
 - Data warehousing
