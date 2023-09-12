@@ -87,7 +87,11 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 
 
 ## 🛠 Personal Projects
-1. [ Uniswap interaction, extracting token information and retrieving/storing price data in a database."](https://github.com/Nicolagg/UniswapV2_get_prices)
+1. [ Uniswap interaction](https://nicolagg.github.io/UniswapV2_get_prices)  
+   Extracting token information and retrieving/storing price data in a database.
+3. [DexBot](https://nicolagg.github.io/DexBot)  
+   DexBot is a Telegram bot designed to facilitate cryptocurrency trading on Dexs
+    
 
 <!--- This is an HTML comment in Markdown
 ### 2. [Project 2 Name]
