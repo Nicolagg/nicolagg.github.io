@@ -85,12 +85,11 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 - Parallel computing with Pandas, NumPy, and DASK
 - Web Sockets for streaming data
 
-<!--- This is an HTML comment in Markdown
+
 ## 🛠 Personal Projects
+1. [ Uniswap interaction, extracting token information and retrieving/storing price data in a database."](https://github.com/Nicolagg/UniswapV2_get_prices)
 
-### 1. [Project 1 Name]
-
-
+<!--- This is an HTML comment in Markdown
 ### 2. [Project 2 Name]
 --->
 
