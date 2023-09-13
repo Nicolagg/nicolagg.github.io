@@ -2,6 +2,15 @@
 
 Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into actionable insights. This portfolio provides an overview of my certification and some personal projects that I've worked on.
 
+## 🛠 Personal Projects
+1. [ Uniswap interaction](https://nicolagg.github.io/UniswapV2_get_prices)  
+   Extracting token information and retrieving/storing price data in a database.
+2. [DexBot](https://nicolagg.github.io/DexBot)  
+   DexBot is a Telegram bot designed to facilitate cryptocurrency trading on Dexs
+3. [Backtesting](https://nicolagg.github.io/Backtesting)
+   Trading Strategies with Jupyter Notebook
+    
+
 ## 📜 Professional Certificate in Data Engineering
 
 - **Institution**: Massachusetts Institute of Technology 
@@ -9,7 +18,6 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 - **Certification**: [Certificate](https://certificates.emeritus.org/1e082e18-9679-4e2c-ad05-a131eb8cc56b)
 
 ### 🎓🌟 Course Highlights: 
-
 
 
 <ol>
@@ -61,25 +69,16 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
 
 #### Databases & Storage
 - **SQL: Querying and database design**
-- Hadoop ecosystem
 - Database design and management
 - Data warehousing
 
 #### Programming & Scripting
 - Python (specifically for data manipulation and ML applications)
-- Redundant Dictionaries in Python
 
 #### Tools & Frameworks
 - NiFi for ETL tasks
 - Spark for big data processing
 - Airflow for data workflow management
-- ThingsBoard for live data streaming and analysis
-
-#### Machine Learning & AI
-- Gradient Descent optimization
-- Naïve Bayes and Gaussian Naïve Bayes classifiers
-- Reinforcement Learning algorithms
-- K-means clustering
 
 #### Other
 - Parallel computing with Pandas, NumPy, and DASK
@@ -95,9 +94,7 @@ Hello! I'm Nico, a Data Engineer with a passion for transforming raw data into a
    Trading Strategies with Jupyter Notebook
     
 
-<!--- This is an HTML comment in Markdown
-### 2. [Project 2 Name]
---->
+
 
 ## 📫 Contact Me
 
